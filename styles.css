@@ -1,0 +1,17 @@
+/* Define the style of heading */
+h1{
+  /* Set font family to monospace */
+  font-family: monospace;
+
+  /* Set font size to 28 pixel */
+  font-size: 28px;
+
+  /* Set font to bold */
+	font-weight: bold;
+
+  /* Set color as black */
+  color: black;
+
+  /* Set shadow in white and grey */
+  text-shadow: 0 2px white, 0 3px grey;
+}
